@@ -1,4 +1,3 @@
-
-
-require("./main.css");
-console.log('fuck-webpack-dong-wonderful');
+require("./main.css")
+require("./images/link.jpg")
+require("./index.html")
